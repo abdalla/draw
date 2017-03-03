@@ -1,2 +1,2 @@
 # draw
-Drawn thing using Python - Turtle
+Drawing things using Python - Turtle
